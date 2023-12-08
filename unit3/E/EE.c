@@ -14,6 +14,5 @@ int main() {
       printf("%5d %5.1f %5.2f\n", y, x, intelligence_level);
     }
   }
-
-  return 0;
-}
+ return 0; 
+ }
